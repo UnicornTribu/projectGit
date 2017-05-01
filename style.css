@@ -10,3 +10,7 @@ h1, h2, h3, p{
 .item{
 	width: 50%;
 }
+
+.bot-container{
+	text-align: right;
+}
