@@ -1,0 +1,3 @@
+# projectGit
+
+Git training
