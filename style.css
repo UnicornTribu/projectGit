@@ -1,0 +1,12 @@
+h1, h2, h3, p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.top-container{
+	width: 100%;
+	text-align: center;
+}
+
+.item{
+	width: 50%;
+}
